@@ -1,4 +1,4 @@
-package org.generation.ItemsAPI.controller;
+package com.dawti.itemsapi.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

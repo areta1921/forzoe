@@ -46,8 +46,8 @@ public class ItemController {
 
     @CrossOrigin
     @DeleteMapping("/{id}")
-        public void delete(@PathVariable Integer id) {
-            itemService.delete(id);
+    public void delete(@PathVariable Integer id) {
+        itemService.delete(id);
     }
 
 }
