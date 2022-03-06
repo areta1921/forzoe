@@ -1,1 +1,0 @@
-web: java -jar build/libs/forzoe1921.jar
