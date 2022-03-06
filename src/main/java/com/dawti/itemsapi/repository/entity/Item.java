@@ -5,7 +5,7 @@ import com.dawti.itemsapi.controller.dto.ItemDto;
 import javax.persistence.*;
 
 @Entity
-@Table(name="itemsdb")
+@Table(name="item")
 public class Item {
 
     @Id
